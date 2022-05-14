@@ -3,6 +3,6 @@
 
 Packages used:
 
-* AudioContext Web API[https://developer.mozilla.org/en-US/docs/Web/API/AudioContext]
-* AnalyserNode [https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode]
-* Font Awesome 6.1.1[https://fontawesome.com]
+* [AudioContext Web API](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext)
+* [AnalyserNode](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
+* [Font Awesome 6.1.1](https://fontawesome.com)
