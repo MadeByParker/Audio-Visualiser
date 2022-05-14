@@ -1,6 +1,6 @@
 (function() {
 
-    const number_of_bars = 25;
+    const number_of_bars = 40;
     
     const audio = document.querySelector("audio");
     myfile.onchange = function(){
@@ -47,7 +47,7 @@
 
         for( let i = 0; i < number_of_bars; i++){
 
-            const index = (i + 10) * 4;
+            const index = Math.round((i + 10) * 2.5);
             const frequency = frequencyData[index];
 
             const bar = document.querySelector("#bar" + i);
