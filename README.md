@@ -1,5 +1,7 @@
 # Audio-Visualiser
  A simple Audio Visualiser made with HTML, CSS and JavaScript. Includes file input for your own songs!
+ 
+ Hosted app [here!](https://parker06.github.io/Audio-Visualiser/)
 
 Packages used:
 
