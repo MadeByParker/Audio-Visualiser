@@ -37,13 +37,14 @@ body {
 }
 
 .audio-player {
+    margin-top: 25px;
     margin-bottom: 25px;
     z-index: 2;
 }
 
 .visualiser-container {
     position: absolute;
-    bottom: 450px;
+    bottom: 350px;
     left: 0;
     right: 0;
     height: 250px;
@@ -74,6 +75,7 @@ body {
     background-color: white;
     padding: 8px 25px;
     margin-left: 25px;
+    margin-top: 25px;
     border-radius: 8px;
     font-size: 20px;
     font-weight: bold;
