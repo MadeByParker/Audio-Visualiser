@@ -7,7 +7,7 @@ Packages used:
 * [AnalyserNode](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
 * [Font Awesome 6.1.1](https://fontawesome.com)
 
-## No audio is playing?
+## No audio playing?
 
 ### Click on the lock icon
 
